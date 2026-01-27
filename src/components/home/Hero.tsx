@@ -41,12 +41,12 @@ const Hero = () => {
                     </div>
 
                     <h1 className="text-6xl md:text-8xl font-heading mb-8 leading-[0.9] tracking-tight">
-                        Escape to the <br />
-                        <span className="text-brand-teal italic font-light">Untamed North.</span>
+                        Where Peaks Whisper <br />
+                        <span className="text-brand-teal italic font-light">& Deserts Bloom.</span>
                     </h1>
 
                     <p className="text-lg md:text-2xl font-body mb-10 text-white/80 leading-relaxed max-w-2xl">
-                        Discover the soul of the mountains. From the silent monasteries of Spiti to the royal heart of Rajasthan.
+                        Uncover the raw beauty of the Himalayas and the timeless majesty of Rajasthan. Your extraordinary adventure begins here.
                     </p>
 
                     <div className="flex flex-col sm:flex-row gap-5">
