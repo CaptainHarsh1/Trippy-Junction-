@@ -21,6 +21,33 @@ const ContactPage = () => {
                             Have a custom itinerary in mind? Or want to join our next batch? Drop us a message or find us at our pickup points.
                         </p>
 
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+                            <div className="flex items-start space-x-4">
+                                <span className="text-3xl mt-1">📍</span>
+                                <div>
+                                    <p className="font-heading font-bold text-brand-dark">Head Office</p>
+                                    <div className="text-sm text-brand-dark/70 font-body leading-relaxed">
+                                        Trippy Junction<br />
+                                        Jawaharlal Nehru Marg<br />
+                                        Opposite Stadium, Raj Ghat<br />
+                                        New Delhi – 110002, India
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="flex items-start space-x-4">
+                                <span className="text-3xl mt-1">🏢</span>
+                                <div>
+                                    <p className="font-heading font-bold text-brand-dark">Corporate Office</p>
+                                    <div className="text-sm text-brand-dark/70 font-body leading-relaxed">
+                                        Trippy Junction<br />
+                                        13th Floor, Golden Apartment<br />
+                                        Sector 76, Noida<br />
+                                        Uttar Pradesh – 201304
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                         <div className="space-y-8 mb-16">
                             <div className="flex items-center space-x-4">
                                 <span className="text-3xl">📞</span>
@@ -32,7 +59,7 @@ const ContactPage = () => {
                             <div className="flex items-center space-x-4">
                                 <span className="text-3xl">✉️</span>
                                 <div>
-                                    <p className="font-heading font-bold text-brand-dark">trippyjunctiontravel@gmail.com</p>
+                                    <p className="font-heading font-bold text-brand-dark">travel@trippyjunction.com</p>
                                     <p className="text-sm text-brand-dark/40 uppercase font-bold tracking-widest">Official Email</p>
                                 </div>
                             </div>

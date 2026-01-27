@@ -62,7 +62,10 @@ const Footer = () => {
                         <ul className="space-y-4 font-body text-brand-dark/70 text-sm">
                             <li className="flex items-start space-x-3">
                                 <span className="text-brand-teal mt-1">📍</span>
-                                <span>North India Base (Pickups from Delhi, Chandigarh, etc.)</span>
+                                <div>
+                                    <p className="font-bold mb-1">Head Office</p>
+                                    <p>Jawaharlal Nehru Marg, Opposite Stadium, Raj Ghat, New Delhi – 110002</p>
+                                </div>
                             </li>
                             <li className="flex items-center space-x-3">
                                 <span className="text-brand-teal">📞</span>
@@ -70,7 +73,7 @@ const Footer = () => {
                             </li>
                             <li className="flex items-center space-x-3">
                                 <span className="text-brand-teal">✉️</span>
-                                <a href="mailto:trippyjunctiontravel@gmail.com" className="hover:text-brand-teal">trippyjunctiontravel@gmail.com</a>
+                                <a href="mailto:travel@trippyjunction.com" className="hover:text-brand-teal">travel@trippyjunction.com</a>
                             </li>
                         </ul>
                     </div>
