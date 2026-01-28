@@ -46,7 +46,7 @@ const Hero = () => {
                     </h1>
 
                     <p className="text-lg md:text-2xl font-body mb-10 text-white/80 leading-relaxed max-w-2xl">
-                        Uncover the raw beauty of the Himalayas and the timeless majesty of Rajasthan. Your extraordinary adventure begins here.
+                        From the snowy peaks of the Himalayas to the sun-kissed coasts and royal deserts, discover the soul of India. Your extraordinary adventure begins here.
                     </p>
 
                     <div className="flex flex-col sm:flex-row gap-5">

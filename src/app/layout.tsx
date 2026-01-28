@@ -14,8 +14,8 @@ const lora = Lora({
 });
 
 export const metadata: Metadata = {
-  title: "Trippy Junction | Modern North India Travel & Packages",
-  description: "Explore Himachal, Uttarakhand, and Rajasthan with Trippy Junction. Premium, sustainable travel experiences starting from North India's heart.",
+  title: "Trippy Junction | Modern All India Travel & Packages",
+  description: "Explore Himachal, Uttarakhand, Rajasthan, and beyond with Trippy Junction. Premium, sustainable travel experiences across India.",
 };
 
 export default function RootLayout({

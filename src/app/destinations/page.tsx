@@ -19,9 +19,9 @@ const DestinationsPage = () => {
         <div className="pt-32 pb-24 bg-brand-bg min-h-screen">
             <div className="container mx-auto px-4 md:px-8">
                 <div className="max-w-3xl mb-16 animate-fade-in">
-                    <h1 className="text-5xl md:text-6xl font-heading mb-6">Explore the <span className="text-brand-teal">North</span></h1>
+                    <h1 className="text-5xl md:text-6xl font-heading mb-6">Explore <span className="text-brand-teal">India</span></h1>
                     <p className="text-xl font-body text-brand-dark/70">
-                        From the high-altitude deserts of Spiti to the royal palaces of Rajasthan, discover our curated trails across North India.
+                        From the high-altitude deserts of Spiti to the royal palaces of Rajasthan and beyond, discover our curated trails across India.
                     </p>
                 </div>
 
@@ -32,8 +32,8 @@ const DestinationsPage = () => {
                             key={state}
                             onClick={() => setFilter(state)}
                             className={`px-8 py-3 rounded-full font-heading font-semibold transition-all duration-300 ${filter === state
-                                    ? "bg-brand-teal text-white shadow-lg shadow-brand-teal/20"
-                                    : "bg-white text-brand-dark hover:bg-brand-sand border border-brand-sand/50"
+                                ? "bg-brand-teal text-white shadow-lg shadow-brand-teal/20"
+                                : "bg-white text-brand-dark hover:bg-brand-sand border border-brand-sand/50"
                                 }`}
                         >
                             {state}

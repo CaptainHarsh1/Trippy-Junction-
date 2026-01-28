@@ -17,7 +17,7 @@ const Footer = () => {
                             />
                         </div>
                         <p className="text-brand-dark/70 font-body">
-                            Eco-friendly travel adventures across North India. Discover the hidden gems of Himachal, Uttarakhand, and Rajasthan with low-impact, sustainable tours.
+                            Eco-friendly travel adventures across India. Discover the hidden gems of Himachal, Uttarakhand, Rajasthan, and beyond with low-impact, sustainable tours.
                         </p>
                         <div className="flex space-x-4">
                             <a

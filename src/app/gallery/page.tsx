@@ -30,6 +30,35 @@ const GalleryPage = () => {
         { src: "/images/lifestyle/stream.png", alt: "Pure Mountain Stream", span: "" },
         { src: "/images/lifestyle/monastery.png", alt: "Peaceful Monastery Flags", span: "" },
         { src: "/images/gallery/udaipur_rajasthan__1.jpeg", alt: "Udaipur City Palace", span: "" },
+        { src: "/images/gallery/photos_0.jpeg", alt: "Vibrant Indian Heritage", span: "lg:col-span-2" },
+        { src: "/images/gallery/photos_1.jpeg", alt: "Serene Landscapes", span: "" },
+        { src: "/images/gallery/photos_2.jpeg", alt: "Authentic Cultural Moments", span: "" },
+        { src: "/images/gallery/photos_3.jpeg", alt: "Breathtaking Views", span: "lg:row-span-2" },
+        { src: "/images/gallery/photos_4.jpeg", alt: "Timeless Architecture", span: "" },
+        { src: "/images/gallery/photos_5.jpeg", alt: "Colorful Street Life", span: "" },
+        { src: "/images/gallery/photos_6.jpeg", alt: "Majestic Mountains", span: "lg:col-span-2" },
+        { src: "/images/gallery/photos_7.jpeg", alt: "Spiritual Echoes", span: "" },
+        { src: "/images/gallery/photos_8.jpeg", alt: "Nature's Palette", span: "" },
+        { src: "/images/gallery/photos_9.jpeg", alt: "Heart of India", span: "" },
+        { src: "/images/gallery/photos_10.jpeg", alt: "Hidden Gems", span: "" },
+        { src: "/images/gallery/photos_11.jpeg", alt: "Royal Splendor", span: "" },
+        { src: "/images/gallery/photos_12.jpeg", alt: "Mystical Valleys", span: "lg:col-span-2" },
+        { src: "/images/gallery/photos_13.jpeg", alt: "Golden Hour Magic", span: "" },
+        { src: "/images/gallery/photos_14.jpeg", alt: "Sacred Rivers", span: "" },
+        { src: "/images/gallery/photos_15.jpeg", alt: "Ancient Wonders", span: "" },
+        { src: "/images/gallery/photos_16.jpeg", alt: "Local Traditions", span: "lg:row-span-2" },
+        { src: "/images/gallery/photos_17.jpeg", alt: "Infinite Horizons", span: "" },
+        { src: "/images/gallery/photos_18.jpeg", alt: "Echoes of the Past", span: "" },
+        { src: "/images/gallery/photos_19.jpeg", alt: "Soulful Journeys", span: "lg:col-span-2" },
+        { src: "/images/gallery/photos_20.jpeg", alt: "Pristine Nature", span: "" },
+        { src: "/images/gallery/photos_21.jpeg", alt: "Architectural Marvels", span: "" },
+        { src: "/images/gallery/photos_22.jpeg", alt: "Cultural Tapestry", span: "" },
+        { src: "/images/gallery/photos_23.jpeg", alt: "Land of Dreams", span: "" },
+        { src: "/images/gallery/photos_24.jpeg", alt: "Himalayan Spirits", span: "lg:col-span-2" },
+        { src: "/images/gallery/photos_25.jpeg", alt: "Majesty of India", span: "" },
+        { src: "/images/gallery/photos_26.jpeg", alt: "Travel Stories", span: "" },
+        { src: "/images/gallery/photos_27.jpeg", alt: "Spirit of Adventure", span: "" },
+        { src: "/images/gallery/photos_28.jpeg", alt: "Beyond Boundaries", span: "lg:col-span-2" },
     ];
 
     return (
@@ -66,7 +95,7 @@ const GalleryPage = () => {
                     <p className="text-brand-dark/40 font-heading font-bold uppercase tracking-widest mb-4">AI Enhanced Experiences</p>
                     <h3 className="text-2xl font-heading mb-4 italic">"Nature captured, stories retold."</h3>
                     <p className="text-brand-dark/70 font-body max-w-xl mx-auto">
-                        Some visuals are AI-enhanced to better represent the dream-like atmosphere of the North Indian mountains at golden hour.
+                        Some visuals are AI-enhanced to better represent the dream-like atmosphere of the Indian landscapes at golden hour.
                     </p>
                 </div>
             </div>

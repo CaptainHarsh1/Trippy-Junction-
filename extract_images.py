@@ -35,6 +35,6 @@ def extract_images_from_pdfs(pdf_dir, output_dir):
         doc.close()
 
 if __name__ == "__main__":
-    pdf_directory = "Image"
+    pdf_directory = "."
     gallery_directory = "public/images/gallery"
     extract_images_from_pdfs(pdf_directory, gallery_directory)

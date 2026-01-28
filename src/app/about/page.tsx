@@ -8,7 +8,7 @@ const AboutPage = () => {
                     <div className="text-center mb-20 animate-fade-in">
                         <h1 className="text-5xl md:text-7xl font-heading mb-8">About <span className="text-brand-teal">Trippy Junction</span></h1>
                         <p className="text-xl font-body text-brand-dark/70 leading-relaxed">
-                            We are a team of passionate explorers dedicated to uncovering the hidden gems of North India.
+                            We are a team of passionate explorers dedicated to uncovering the hidden gems across India.
                             Our mission is to provide soulful, sustainable, and soulful travel experiences.
                         </p>
                     </div>
@@ -44,7 +44,7 @@ const AboutPage = () => {
                     <div className="bg-white rounded-3xl p-12 border border-brand-sand/50 shadow-sm text-center">
                         <h2 className="text-3xl font-heading mb-6">Join the Tribe</h2>
                         <p className="text-brand-dark/60 font-body mb-8 max-w-2xl mx-auto">
-                            Ready to see the North like never before? Follow our journey and be part of a community that loves the mountains.
+                            Ready to see India like never before? Follow our journey and be part of a community that loves adventure.
                         </p>
                         <div className="flex justify-center space-x-6">
                             <span className="text-4xl">🏔️</span>
